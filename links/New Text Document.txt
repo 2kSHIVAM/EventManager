@@ -1,0 +1,8 @@
+background:https://pngtree.com/freebackground/scene-with-geometrical-forms-and-textured-background-for-cosmetic-product-3d-render_1223477.html
+
+how to change size of placeholder:  https://stackoverflow.com/questions/30916387/placeholder-font-size-bigger-than-16px
+
+
+ERROR FOUND:
+#1142 - SELECT command denied to user 'pma'@'localhost' for table 'pma__table_uiprefs'
+solved: https://stackoverflow.com/questions/18424797/1142-select-command-denied-to-user-localhost-for-table-pma-table-uipref
